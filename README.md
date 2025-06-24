@@ -22,8 +22,7 @@
 - 📱 +92 309 9794981
 - 🌐 [Portfolio](https://muhammadabbas.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abbas-dev/)
-- 🧑‍💻 [Egasi.net Project](https://www.egasi.net/)
-
+  
 ---
 
 💡 Always learning, always building. Let’s connect and create something amazing!
