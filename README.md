@@ -1,30 +1,29 @@
-👋 Hey, I'm Abbas
-I build full-stack apps that solve real problems — fast, clean, scalable.
+### Hi there 👋 I'm Muhammad Abbas Khan
 
-💡 What I Build
-🧠 Smart dashboards & admin panels
-🛒 POS systems & business tools
-🏥 Healthcare management platforms
-📱 Cross-platform mobile apps
-🌐 Real-time web solutions
+🚀 Passionate Full Stack Developer with 2+ years of professional experience building scalable, performant web applications.
 
-🔥 Tech I Use
-React · Next.js · TypeScript · Tailwind  
-Node.js · Express · GraphQL  
-MongoDB · MySQL · DynamoDB  
-AWS Amplify · Firebase · React Native
+🎯 I specialize in the **MERN stack** and love working with tools like **ReactJS**, **Next.js**, **React Native**, **Tailwind CSS**, **Node.js**, and **MongoDB**. I’m also experienced with **AWS Amplify**, **GraphQL**, and **DynamoDB**.
 
-🚀 Projects That Matter
-Hospital Management System (HMS):  Dashboard & modules for FGPC Hospital – appointment automation, billing, scalability
-Venus Aesthetics CRM: Client scheduling, POS, and accounting features
-Lanza Jobs: Web + mobile platform for job posting and hiring
-Egasi Link: Real estate & vehicle listings marketplace
-Grocery Dashboard: Inventory tracking system for ItechExperts
+🛠️ Notable Projects:
+- **[Venus Aesthetics CRM](https://muhammadabbas.vercel.app/)** – Client & POS management system for a clinic
+- **Lanza Jobs** – Local job posting and hiring platform
+- **Egasi Link** – Real estate & vehicle classified ad platform
+- **Hospital Management System (FGPC)** – End-to-end HMS for FGPC Hospital, Islamabad
+- **Grocery Dashboard** – Inventory and admin panel for a local grocery store
 
-🎯 Skills in One Line
-Full Stack Developer specializing in MERN stack, React, TypeScript, and cloud deployment. Built tools for hospitals, businesses, and startups.
+💼 Currently building enterprise-grade apps at **Backendz** and previously contributed to software for clients in healthcare, construction, and retail sectors.
 
-🌐 muhammadabbas.verce.app
-💼 LinkedIn
-📧 mabbask440@gmail.com
-🖥 Portfolio
+📜 Certifications:
+- [Meta Front-End Developer (Coursera)](https://www.credly.com/badges/01698b78-f0fe-4e90-aaa9-b08fbf178da9/linked_in_profile)
+- [Modern JavaScript for React JS (Udemy)](https://udemy-certificate.s3.amazonaws.com/image/UC-6287efcb-f2a7-4467-9a81-5b08254cfa72.jpg?v=1668796428000)
+
+📫 Reach me at:
+- 📧 mabbask440@gmail.com
+- 📱 +92 309 9794981
+- 🌐 [Portfolio](https://muhammadabbas.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abbas-dev/)
+- 🧑‍💻 [Egasi.net Project](https://www.egasi.net/)
+
+---
+
+💡 Always learning, always building. Let’s connect and create something amazing!
