@@ -7,7 +7,6 @@
 🛠️ Notable Projects:
 - **[Venus Aesthetics CRM](https://muhammadabbas.vercel.app/)** – Client & POS management system for a clinic
 - **Lanza Jobs** – Local job posting and hiring platform
-- **Egasi Link** – Real estate & vehicle classified ad platform
 - **Hospital Management System (FGPC)** – End-to-end HMS for FGPC Hospital, Islamabad
 - **Grocery Dashboard** – Inventory and admin panel for a local grocery store
 
